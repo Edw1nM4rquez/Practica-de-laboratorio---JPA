@@ -1,4 +1,4 @@
-*Desarrollo de una aplicacion JEE basado en Servlets, JSP y JDBC para el intercambio de datos
+*Desarrollo de una aplicacion JEE basado en Servlets, JSP y JPA para el intercambio de datos
  en un modelo de tres capas aplicando los patrones diseno de software MVC y DAO*
 
 <h2>Base de datos</h2>
