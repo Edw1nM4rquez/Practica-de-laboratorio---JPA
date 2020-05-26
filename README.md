@@ -5,7 +5,7 @@
 
 <center><img src="Imagenes/foto8.PNG"></center>
 
-1.	Crear un repositorio en GitHub con el nombre “Práctica de laboratorio 01: Servlets, JSP y JDBC”
+1.	Crear un repositorio en GitHub con el nombre “Práctica de laboratorio 01: Servlets, JSP y JPA”
 <img src="Imagenes/foto.png">
 
 2.	Desarrollar una aplicación con tecnología JEE para gestionar una agenda telefónica en la web.
