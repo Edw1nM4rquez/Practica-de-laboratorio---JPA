@@ -2,7 +2,9 @@
  en un modelo de tres capas aplicando los patrones diseno de software MVC y DAO*
 
 <h2>Base de datos</h2>
+<center><img src="Imagenes/foto9.PNG"></center>
 
+<h2>Diagramas</h2>
 <center><img src="Imagenes/foto8.PNG"></center>
 
 1.	Crear un repositorio en GitHub con el nombre “Práctica de laboratorio 01: Servlets, JSP y JPA”
